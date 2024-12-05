@@ -11,7 +11,7 @@ body {
 .container {
     background: white;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 1720px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
@@ -22,7 +22,7 @@ input {
 }
 
 button {
-    padding: 10px 15px;
-    margin-top: 10px;
+    padding: 20px 15px;
+    margin-top: 1720px;
     cursor: pointer;
 }
